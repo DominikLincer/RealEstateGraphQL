@@ -1,0 +1,11 @@
+D:\YouTube\GraphQL\RealEstateAPI\RealEstateAPI\bin\Debug\netcoreapp2.0\RealEstateAPI.deps.json
+D:\YouTube\GraphQL\RealEstateAPI\RealEstateAPI\bin\Debug\netcoreapp2.0\RealEstateAPI.runtimeconfig.json
+D:\YouTube\GraphQL\RealEstateAPI\RealEstateAPI\bin\Debug\netcoreapp2.0\RealEstateAPI.runtimeconfig.dev.json
+D:\YouTube\GraphQL\RealEstateAPI\RealEstateAPI\bin\Debug\netcoreapp2.0\RealEstateAPI.dll
+D:\YouTube\GraphQL\RealEstateAPI\RealEstateAPI\bin\Debug\netcoreapp2.0\RealEstateAPI.pdb
+D:\YouTube\GraphQL\RealEstateAPI\RealEstateAPI\obj\Debug\netcoreapp2.0\RealEstateAPI.csprojResolveAssemblyReference.cache
+D:\YouTube\GraphQL\RealEstateAPI\RealEstateAPI\obj\Debug\netcoreapp2.0\RealEstateAPI.csproj.CoreCompileInputs.cache
+D:\YouTube\GraphQL\RealEstateAPI\RealEstateAPI\obj\Debug\netcoreapp2.0\RealEstateAPI.AssemblyInfoInputs.cache
+D:\YouTube\GraphQL\RealEstateAPI\RealEstateAPI\obj\Debug\netcoreapp2.0\RealEstateAPI.AssemblyInfo.cs
+D:\YouTube\GraphQL\RealEstateAPI\RealEstateAPI\obj\Debug\netcoreapp2.0\RealEstateAPI.dll
+D:\YouTube\GraphQL\RealEstateAPI\RealEstateAPI\obj\Debug\netcoreapp2.0\RealEstateAPI.pdb

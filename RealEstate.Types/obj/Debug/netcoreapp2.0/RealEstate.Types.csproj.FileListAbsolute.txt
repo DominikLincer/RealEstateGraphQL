@@ -1,0 +1,15 @@
+D:\YouTube\GraphQL\RealEstateAPI\RealEstate.Types\bin\Debug\netcoreapp2.0\RealEstate.Types.deps.json
+D:\YouTube\GraphQL\RealEstateAPI\RealEstate.Types\bin\Debug\netcoreapp2.0\RealEstate.Types.dll
+D:\YouTube\GraphQL\RealEstateAPI\RealEstate.Types\bin\Debug\netcoreapp2.0\RealEstate.Types.pdb
+D:\YouTube\GraphQL\RealEstateAPI\RealEstate.Types\bin\Debug\netcoreapp2.0\RealEstate.Database.dll
+D:\YouTube\GraphQL\RealEstateAPI\RealEstate.Types\bin\Debug\netcoreapp2.0\RealEstate.Utilities.dll
+D:\YouTube\GraphQL\RealEstateAPI\RealEstate.Types\bin\Debug\netcoreapp2.0\RealEstate.Database.pdb
+D:\YouTube\GraphQL\RealEstateAPI\RealEstate.Types\bin\Debug\netcoreapp2.0\RealEstate.Utilities.pdb
+D:\YouTube\GraphQL\RealEstateAPI\RealEstate.Types\obj\Debug\netcoreapp2.0\RealEstate.Types.csprojResolveAssemblyReference.cache
+D:\YouTube\GraphQL\RealEstateAPI\RealEstate.Types\obj\Debug\netcoreapp2.0\RealEstate.Types.csproj.CoreCompileInputs.cache
+D:\YouTube\GraphQL\RealEstateAPI\RealEstate.Types\obj\Debug\netcoreapp2.0\RealEstate.Types.AssemblyInfoInputs.cache
+D:\YouTube\GraphQL\RealEstateAPI\RealEstate.Types\obj\Debug\netcoreapp2.0\RealEstate.Types.AssemblyInfo.cs
+D:\YouTube\GraphQL\RealEstateAPI\RealEstate.Types\obj\Debug\netcoreapp2.0\RealEstate.Types.dll
+D:\YouTube\GraphQL\RealEstateAPI\RealEstate.Types\obj\Debug\netcoreapp2.0\RealEstate.Types.pdb
+D:\YouTube\GraphQL\RealEstateAPI\RealEstate.Types\bin\Debug\netcoreapp2.0\RealEstate.DataAccess.dll
+D:\YouTube\GraphQL\RealEstateAPI\RealEstate.Types\bin\Debug\netcoreapp2.0\RealEstate.DataAccess.pdb
